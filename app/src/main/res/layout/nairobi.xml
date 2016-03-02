@@ -17,20 +17,17 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="154dp" >
 
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true">
 
+
+
+
+
+        </LinearLayout>
     </ScrollView>
-
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_centerHorizontal="true">
-
-
-
-
-
-    </LinearLayout>
-
 
 </RelativeLayout>
