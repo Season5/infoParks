@@ -22,16 +22,14 @@
         <activity android:name=".Coast" />
         <activity android:name=".RiftValley" />
         <activity android:name=".Nyanza" />
-        <activity android:name=".Western" />
         <activity android:name=".Splash">
-
             <intent-filter>
-
                 <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Western"></activity>
     </application>
 
 </manifest>
