@@ -24,7 +24,7 @@
         <activity android:name=".Nyanza" />
         <activity android:name=".Western" />
         <activity android:name=".Splash">
-            
+
             <intent-filter>
 
                 <action android:name="android.intent.action.MAIN" />
