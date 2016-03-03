@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">InfoParks</string>
+    <string name="nairobi">NAIROBI</string>
+    <string name="central">CENTRAL</string>
+    <string name="eastern">EASTERN</string>
+    <string name="northeastern">NORTH EASTERN</string>
+    <string name="coast">COAST</string>
+    <string name="riftvalley"> RIFT VALLEY</string>
+    <string name="nyanza">NYANZA</string>
+    <string name="western">WESTERN</string>
 </resources>
