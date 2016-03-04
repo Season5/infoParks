@@ -22,4 +22,30 @@
     <string name="orphanagewildlife">Wildlife</string>
     <string name="orphanagepicnic">Birds</string>
     <string name="orphanage">orphanage</string>
+    <string name="coasttitle">Mombasa Marine Park</string>
+    <string name="coastabout">About</string>
+    <string name="coastcontent1">Warm azure ocean, swaying coconut palms on white sandy beaches are to be found in the Mombasa Marine National Park and Reserve. The park lies between the Mtwapa and Tudor Creeks and its blue waters are ideal for wind surfing, water skiing, snorkelling and diving. They also provide a home to a colourful variety of marine species including crabs, starfish, stone fish, cucumbers sea urchins, corals, turtles, sea grasses and interesting migratory birds including crab plovers.</string>
+    <string name="coastfeatures">Key Features</string>
+    <string name="coastwildlife">Abundant Bird Life</string>
+    <string name="coastpicnic">Fish</string>
+    <string name="watamutitle">Watamu Marine Park</string>
+    <string name="watamuabout">About</string>
+    <string name="watamucontent1">Green turtles, unique coral gardens, the Gede Ruins – the Watamu Marine National Park and Reserve has it all. The park is part of a complex of marine and tidal habitats along the Kenya’s north coast with rich and diverse bird life, fish, turtles and dugongs. Visitors can enjoy the white sandy beaches, snorkeling, water skiing, windsurfing and glass bottomed boat tours.</string>
+    <string name="watamufeatures">Key Features</string>
+    <string name="watamuwildlife">Abundant Bird Life</string>
+    <string name="watamupicnic">Fish</string>
+
+    <string name="malindititle">Malindi Marine Park</string>
+    <string name="malindiabout">About</string>
+    <string name="malindicontent1">Warm azure ocean, swaying coconut palms on white sandy beaches are to be found in the Mombasa Marine National Park and Reserve. The park lies between the Mtwapa and Tudor Creeks and its blue waters are ideal for wind surfing, water skiing, snorkelling and diving. They also provide a home to a colourful variety of marine species including crabs, starfish, stone fish, cucumbers sea urchins, corals, turtles, sea grasses and interesting migratory birds including crab plovers.</string>
+    <string name="malindifeatures">Key Features</string>
+    <string name="malindiwildlife">Abundant Bird Life</string>
+    <string name="malindipicnic">Fish</string>
+    <string name="kisitetitle">Kisite Mpunguti Marine Park</string>
+    <string name="kisiteabout">About</string>
+    <string name="kisitecontent1">Green turtles, unique coral gardens, the Gede Ruins – the Watamu Marine National Park and Reserve has it all. The park is part of a complex of marine and tidal habitats along the Kenya’s north coast with rich and diverse bird life, fish, turtles and dugongs. Visitors can enjoy the white sandy beaches, snorkeling, water skiing, windsurfing and glass bottomed boat tours.</string>
+    <string name="kisitefeatures">Key Features</string>
+    <string name="kisitewildlife">Abundant Bird Life</string>
+    <string name="kisitepicnic">Fish</string>
+
 </resources>
