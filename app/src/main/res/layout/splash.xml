@@ -23,15 +23,16 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Your Guide To Magical Kenya"
         android:id="@+id/textView11"
+        android:layout_marginTop="136dp"
+        android:textSize="20dp"
         android:layout_below="@+id/imageView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="43dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Powered by Nyamnyam"
+        android:text="Powered by Traveller"
         android:id="@+id/textView12"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
@@ -40,10 +41,22 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="InfoParks"
         android:id="@+id/textView13"
-        android:layout_alignTop="@+id/imageView"
+        android:textSize="60dp"
+        android:textIsSelectable="false"
+        android:layout_below="@+id/imageView"
         android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView13"
+        android:src="@drawable/map"
+        android:paddingTop="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/textView13" />
 
 </RelativeLayout>
