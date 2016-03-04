@@ -59,6 +59,34 @@
                 android:text="@string/aberdare"
                 android:id="@+id/textView4" />
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="OL donyo Sabuk National Park"
+                android:id="@+id/textView20" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:id="@+id/imageView11"
+                android:background="#192800"
+                android:src="@drawable/donyo" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Dominated by a small mountain covered in montane forest, the Ol Donyo Sabuk National Park is home to 45 species of birds including the white-browed sparrow weaver, grey- headed sparrow weaver, African pied wagtail, mourning dove, augur buzzard, African hawk eagle and purple-breasted sunbird. Buffalo are the dominant animals in the ecosystem and other wildlife include bushbucks, leopards, olive baboons, aardvarks, porcupines, mongoose, pythons and monitor lizard. The mountain’s summit also offers visitors scenic views of Mount Kenya."
+                android:id="@+id/textView21" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Back"
+                android:id="@+id/button3"
+                android:layout_gravity="center_horizontal" />
+
         </LinearLayout>
     </ScrollView>
 
