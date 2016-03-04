@@ -28,10 +28,11 @@
             android:layout_centerHorizontal="true">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="@string/tsavoEast"
+                android:textAlignment="center"
                 android:id="@+id/textView14"
                 android:layout_alignParentTop="true"
                 android:layout_alignParentLeft="true"
@@ -59,14 +60,16 @@
                 android:layout_alignParentTop="true"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentStart="true"
-                android:paddingTop="10dp"
-                />
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp"
+                android:textAlignment="center" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="Chyulu Hills National Park"
+                android:textAlignment="center"
                 android:id="@+id/textView16"
                 android:layout_alignParentTop="true"
                 android:layout_alignParentLeft="true"
@@ -93,13 +96,16 @@
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentStart="true"
                 android:paddingTop="10dp"
-                />
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp"
+                android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="Mwingi Game Reserve"
+                android:textAlignment="center"
                 android:id="@+id/textView18"
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentLeft="true"
@@ -125,14 +131,12 @@
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentStart="true"
-                android:layout_marginBottom="36dp" />
+                android:layout_marginBottom="36dp"
+                android:paddingStart="30dp"
+                android:paddingEnd="30dp"
+                android:textAlignment="center" />
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Back"
-                android:id="@+id/button2"
-                android:layout_gravity="center_horizontal" />
+
         </LinearLayout>
         </ScrollView>
 
