@@ -72,6 +72,7 @@
                 android:text="Shaba National Park"
                 android:id="@+id/textView8"
                 android:paddingBottom="2dp"
+                android:paddingTop="10dp"
                 />
 
             <ImageView
@@ -80,7 +81,8 @@
                 android:id="@+id/imageView7"
                 android:paddingBottom="2dp"
                 android:src="@drawable/Shaba"
-                android:background="#192800" />
+                android:background="#192800"
+                />
 
 
             <TextView
@@ -92,25 +94,46 @@
                 android:paddingBottom="2dp"
                 />
 
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView12" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Marsabit National Park"
+                android:id="@+id/textView22" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:id="@+id/imageView5"
+                android:background="#192800"
+                android:paddingBottom="2dp"
+                android:src="@drawable/marsabit" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Far to the north of Kenya, a densely forested mountain and three crater lakes provide a haven for a variety of birdlife, mammals and reptiles. The beautiful Marsabit National Park is a refuge for huge tusked bull elephants, diverse birdlife and reptiles. Hikes in the dense forest, wreathed in mist can be enjoyed along with camel rides, bird watching and visits to the singing wells.
+                "
+                android:id="@+id/textView23" />
+
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="BACK"
+                android:text="Back"
                 android:id="@+id/button"
                 android:layout_gravity="center_horizontal" />
-
 
         </LinearLayout>
     </ScrollView>
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView5"
-        android:background="@drawable/Laikipia"
-        android:paddingBottom="2dp"
-        />
+
 
 
 </LinearLayout>
