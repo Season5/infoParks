@@ -28,7 +28,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
                 android:id="@+id/imageView3"
-                android:src="@drawable/mtkenya" />
+                android:background="@drawable/mtkenya" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -46,8 +46,16 @@
 
             <ImageView
                 android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:id="@+id/imageView4"
+                android:background="@drawable/Aberdare" />
+
+            <TextView
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/imageView4" />
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Picturesque, steep forested ravines and open moorland characterise the Aberdare National Park. The park provides a habitat for elephants, black rhinos, leopards, spotted hyenas, olive baboons, black and white colobus monkeys, buffalos, warthogs and bushbucks among others. Rare sightings include those of the Giant Forest hog, bongo, golden cat, serval cat, African wild cat, African civet cat and the blue duiker. Visitors can indulge in picnics, trout fishing in the rivers and camping in the moorlands. Bird viewing is rewarding, with over 250 species of birds in the park, including the Jackson&apos;s Francolin, Sparrow hawks, goshawks, eagles, sunbirds and plovers."
+                android:id="@+id/textView4" />
 
         </LinearLayout>
     </ScrollView>
