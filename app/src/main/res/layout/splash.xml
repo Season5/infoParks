@@ -37,4 +37,13 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="InfoParks"
+        android:id="@+id/textView13"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
