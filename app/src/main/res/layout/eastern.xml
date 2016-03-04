@@ -10,4 +10,133 @@
     tools:context="com.infoparks.wapi.infoparks.Eastern">
 
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView9"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fillViewport="false">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/scrollView9"
+            android:layout_centerHorizontal="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/tsavoEast"
+                android:id="@+id/textView14"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="10dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:id="@+id/imageView8"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:src="@drawable/tsavo"
+                android:background="#192800"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/tsavodes"
+                android:id="@+id/textView15"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="10dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Chyulu Hills National Park"
+                android:id="@+id/textView16"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="10dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:id="@+id/imageView9"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/chyulu"
+                android:background="#192800" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Verdant rolling hills of endless green, great blue skies and spectacular landscape views are what the Chyulu Hills provide to nature lovers. Large mammals include buffalo, bushbucks, elands, elephants, leopards, giant forest hogs, bush pigs, reedbucks and giraffes along with various reptiles and insects. Horse riding, camping, mountain climbing and bird watching can be enjoyed in this hidden part of paradise."
+                android:id="@+id/textView17"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="10dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Mwingi Game Reserve"
+                android:id="@+id/textView18"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:id="@+id/imageView10"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="10dp"
+                android:background="#192800"
+                android:src="@drawable/mwingi" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Hot, dry, remote and unspoiled, this reserve is a designated a Wilderness Activity Zone and allows for fly camping, fishing, camel and horseback safaris for the intrepid visitor. Other attractions include the Adamson’s Falls, fishing and boating on Tana River and visiting Kampi ya Simba – former home of Joy and George Adamson and the grave of Elsa the lioness."
+                android:id="@+id/textView19"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="36dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Back"
+                android:id="@+id/button2"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+        </ScrollView>
+
+
+
+
 </RelativeLayout>

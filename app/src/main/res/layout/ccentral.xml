@@ -28,12 +28,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
                 android:id="@+id/imageView3"
-                android:background="@drawable/mtkenya" />
+                android:background="#192800"
+                android:src="@drawable/mtkenya" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Climbing to 5,199 meters, Mount Kenya is the second tallest mountain in Africa. The scenery surrounding this designated World Heritage Site is breath-taking. It is pristine wilderness with lakes, tarns, glaciers, dense forest, mineral springs and a selection of rare and endangered species of animals, high altitude adapted plains game and unique montane and alpine vegetation. Visitors can enjoy mountain climbing, camping and caving with the mountain’s rugged glacier-clad peaks providing the perfect backdrop."
+                android:text="@string/mtKenya"
                 android:id="@+id/textView2" />
 
             <TextView
@@ -48,13 +49,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="150dp"
                 android:id="@+id/imageView4"
-                android:background="@drawable/Aberdare" />
+                android:background="#192800"
+                android:src="@drawable/Aberdare" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Picturesque, steep forested ravines and open moorland characterise the Aberdare National Park. The park provides a habitat for elephants, black rhinos, leopards, spotted hyenas, olive baboons, black and white colobus monkeys, buffalos, warthogs and bushbucks among others. Rare sightings include those of the Giant Forest hog, bongo, golden cat, serval cat, African wild cat, African civet cat and the blue duiker. Visitors can indulge in picnics, trout fishing in the rivers and camping in the moorlands. Bird viewing is rewarding, with over 250 species of birds in the park, including the Jackson&apos;s Francolin, Sparrow hawks, goshawks, eagles, sunbirds and plovers."
+                android:text="@string/aberdare"
                 android:id="@+id/textView4" />
 
         </LinearLayout>
